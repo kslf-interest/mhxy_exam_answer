@@ -6,6 +6,10 @@ body {
 
 .container {
     margin: 5px auto;
+    margin-bottom: 20px;
+}
+.footer {
+    height: 30px;
 }
 
 table {
