@@ -1,0 +1,18 @@
+{
+    "LICENSE": "94984eb5a843ce1d48e7cd40996a667c",
+    "README.md": "c0e9b02ef2ce52e0e9232dea04186d53",
+    "module.conf": "7be2e0f4bda2aa1958a0b26db8928a2d",
+    "package.json": "8ad3b46980f267e3989d51f691c38d14",
+    "src/Enum.js": "c506ea1252fe218c5776cef0d1159517",
+    "src/EventTarget.js": "510d094dddf312c2ad0d2ebf6d2d8524",
+    "src/Promise.js": "218440209a7c7191f5e78fe55c13e2f9",
+    "src/aop.js": "56dff0c55cf08474020c13b73be371dd",
+    "src/assert.js": "32a6e6c672acd636294be4e197c81603",
+    "src/browser.js": "bb97cdd5dced9b18b80a7ec3f1cfea23",
+    "src/extension/underscore.js": "7f6463820756472f357cb24932a0f52d",
+    "src/main.js": "77ca7dfce67cf927f8327a82ec2637ec",
+    "src/oo.js": "30742e586044a2e3c01f04b9be7db5ab",
+    "src/tpl.js": "3f31131713c3ad11ae2ad3768e3a9989",
+    "src/setImmediate.js": "257df5a6acfc34f3abe97650a73e23b7",
+    "src/util.js": "05d55f3e25790bad8caa0ad1b53f43b3"
+}

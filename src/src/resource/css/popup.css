@@ -1,0 +1,22 @@
+body {
+    width: 500px;
+    height: 100px;
+    text-align: center;
+}
+
+.container {
+    margin: 5px auto;
+}
+
+table {
+    width: 470px;
+    border: 1px solid #000000;
+    border-width: 1px 1px 0 0;
+    margin: 5px 15px;
+}
+
+td, th{
+    padding: 3px 6px;
+    border: 1px solid #000000;
+    border-width: 0 0 1px 1px;
+}

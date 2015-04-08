@@ -1,0 +1,15 @@
+[submodule "dep/mini-event"]
+	path = dep/mini-event
+	url = https://github.com/ecomfe/mini-event.git
+[submodule "dep/underscore"]
+	path = dep/underscore
+	url = https://github.com/leowang721/underscore.git
+[submodule "dep/oo"]
+	path = dep/oo
+	url = https://github.com/ecomfe/oo.git
+[submodule "dep/etpl"]
+	path = dep/etpl
+	url = https://github.com/ecomfe/etpl.git
+[submodule "dep/promise"]
+	path = dep/promise
+	url = https://github.com/ecomfe/promise.git
